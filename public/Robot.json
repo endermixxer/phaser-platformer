@@ -1,0 +1,372 @@
+{"frames": [
+
+{
+	"filename": "character_robot_attack0.png",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":53},
+	"sourceSize": {"w": 40,"h":53}
+},
+{
+	"filename": "character_robot_attack1.png",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":53},
+	"sourceSize": {"w": 40,"h":53}
+},
+{
+	"filename": "character_robot_attack2.png",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":53},
+	"sourceSize": {"w": 40,"h":53}
+},
+{
+	"filename": "character_robot_attackKick.png",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":53},
+	"sourceSize": {"w": 40,"h":53}
+},
+{
+	"filename": "character_robot_back.png",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":53},
+	"sourceSize": {"w": 40,"h":53}
+},
+{
+	"filename": "character_robot_behindBack.png",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":53},
+	"sourceSize": {"w": 40,"h":53}
+},
+{
+	"filename": "character_robot_cheer0.png",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":53},
+	"sourceSize": {"w": 40,"h":53}
+},
+{
+	"filename": "character_robot_cheer1.png",
+	"frame": {"x":192,"y":128,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_climb0.png",
+	"frame": {"x":288,"y":128,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_climb1.png",
+	"frame": {"x":384,"y":128,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_down.png",
+	"frame": {"x":0,"y":256,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_drag.png",
+	"frame": {"x":96,"y":256,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_duck.png",
+	"frame": {"x":192,"y":256,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_fall.png",
+	"frame": {"x":288,"y":256,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_fallDown.png",
+	"frame": {"x":384,"y":256,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_hang.png",
+	"frame": {"x":0,"y":384,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_hit.png",
+	"frame": {"x":96,"y":384,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_hold.png",
+	"frame": {"x":192,"y":384,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_hurt.png",
+	"frame": {"x":288,"y":384,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_idle.png",
+	"frame": {"x":384,"y":384,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_interact.png",
+	"frame": {"x":0,"y":512,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_jump.png",
+	"frame": {"x":96,"y":512,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_kick.png",
+	"frame": {"x":192,"y":512,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_rope.png",
+	"frame": {"x":288,"y":512,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_run0.png",
+	"frame": {"x":384,"y":512,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_run1.png",
+	"frame": {"x":0,"y":640,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_run2.png",
+	"frame": {"x":96,"y":640,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_shove.png",
+	"frame": {"x":192,"y":640,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_shoveBack.png",
+	"frame": {"x":288,"y":640,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_show.png",
+	"frame": {"x":384,"y":640,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_side.png",
+	"frame": {"x":0,"y":768,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_slide.png",
+	"frame": {"x":96,"y":768,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_switch0.png",
+	"frame": {"x":192,"y":768,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_switch1.png",
+	"frame": {"x":288,"y":768,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_talk.png",
+	"frame": {"x":384,"y":768,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_think.png",
+	"frame": {"x":0,"y":896,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk0.png",
+	"frame": {"x":96,"y":896,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk1.png",
+	"frame": {"x":192,"y":896,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk2.png",
+	"frame": {"x":288,"y":896,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk3.png",
+	"frame": {"x":384,"y":896,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk4.png",
+	"frame": {"x":0,"y":1024,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk5.png",
+	"frame": {"x":96,"y":1024,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk6.png",
+	"frame": {"x":192,"y":1024,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_walk7.png",
+	"frame": {"x":288,"y":1024,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+},
+{
+	"filename": "character_robot_wide.png",
+	"frame": {"x":384,"y":1024,"w":96,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+	"sourceSize": {"w":96,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Robot-1.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":1152},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:439bbc3e8da52605aa66e5f632f7c79f:f9da1727a89dc87b570d2ededa83f738:8ef9bd03543c285bd44ba0dd13eafdea$"
+}
+}
